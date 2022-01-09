@@ -91,7 +91,7 @@
 ----------------
 
 * Gif do projeto 
-* [Meu código]();
+* [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia1-09.01.22/Desafio2);
 
 ### Desafio 3 - Mudança de cor de texto quando entra em outra div:<a name="desafio3"></a>
 
