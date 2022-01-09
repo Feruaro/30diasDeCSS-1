@@ -40,13 +40,12 @@ ul li span {
     width: 100%;
     height: 100%;
     
-    transition: 0.3s;
-
+    transition: 0.3s linear;  /* deve informar a duração, pois o valor padrão é 0 */
 
     display: flex !important;
     align-items: center;
     justify-content: center;
-    color: #e999b8;
+    color: #fff;
     font-size: 30px !important;
 }
 
