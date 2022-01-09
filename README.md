@@ -37,9 +37,9 @@
 ---------
 
 * **Dia 1:**
-  * [Ícones de mídias sociais em camadas](#Desafio-1-Ícones-de-mídias-sociais-em-camadas);
-  * [Loader animado](#Desafio 2 - Loader animado:);
-  * [Mudança de cor de texto quando entra em outra div](#Desafio 3 - Mudança de cor de texto quando entra em outra div:);
+  * [Ícones de mídias sociais em camadas](#desafio1);
+  * [Loader animado](#desafio2);
+  * [Mudança de cor de texto quando entra em outra div](#desafio3);
 * **Dia 2:**
   * Botão com efeito;
   * Efeito pulsar;
@@ -79,21 +79,21 @@
 
 <br>
 
-### Desafio 1 - Ícones de mídias sociais em camadas: 
+### Desafio 1 - Ícones de mídias sociais em camadas:<a name="desafio1"></a> 
 
 -------------------------
 
 * Gif do projeto
 * [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia1-09.01.22/Desafio1);
 
-### Desafio 2 - Loader animado: 
+### Desafio 2 - Loader animado:<a name="desafio2"></a> 
 
 ----------------
 
 * Gif do projeto 
 * [Meu código]();
 
-### Desafio 3 - Mudança de cor de texto quando entra em outra div:
+### Desafio 3 - Mudança de cor de texto quando entra em outra div:<a name="desafio3"></a>
 
 ------------
 
