@@ -1,6 +1,6 @@
 <img align="right" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<h1 align="center">Sejam Bem-Vindxs ao "30 dias de CSS":</h1> <a name="topo"></a>
+<h1 align="center">Sejam Bem-Vindxs ao "30 dias de CSS":</h1>
 
 <br>
 
@@ -102,5 +102,5 @@
 
 -------------
 
-<a href="topo" align="center">Voltar ao topo</a>
+
 
