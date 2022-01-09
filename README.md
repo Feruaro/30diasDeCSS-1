@@ -102,5 +102,5 @@
 
 -------------
 
-<h4 align="center">[Voltar ao topo](#topo)<h4>
+[Voltar ao topo](#topo)
 
