@@ -102,5 +102,5 @@
 
 -------------
 
-[Voltar ao topo](#topo)
+<a href="topo" align="center">Voltar ao topo</a>
 
