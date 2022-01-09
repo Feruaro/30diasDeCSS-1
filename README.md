@@ -32,12 +32,12 @@
 
 <br>
 
-### 📚 Progresso:
+### 📚 Desafios:
 
 ---------
 
 * **Dia 1:**
-  * [Ícones de mídias sociais em camadas](#Desafio 1 - Ícones de mídias sociais em camadas:);
+  * [Ícones de mídias sociais em camadas](#Desafio-1-Ícones-de-mídias-sociais-em-camadas);
   * [Loader animado](#Desafio 2 - Loader animado:);
   * [Mudança de cor de texto quando entra em outra div](#Desafio 3 - Mudança de cor de texto quando entra em outra div:);
 * **Dia 2:**
