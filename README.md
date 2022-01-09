@@ -99,7 +99,8 @@
 
 ------------
 
-* Gif do projeto
+<img widht=500px height=300px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia1-09.01.22/Desafio3/gif/desafio3.gif">
+
 * [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia1-09.01.22/Desafio3);
 
 -------------
