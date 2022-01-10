@@ -42,8 +42,8 @@
   * [Mudança de cor de texto quando entra em outra div](#desafio3);
 * **Dia 2:**
   * [Botão com efeito](#desafio4);
-  * Efeito pulsar;
-  * Efeito lightning text;
+  * [Efeito pulsar](#desafio5);
+  * [Efeito lightning text](#desafio6);
 * **Dia 3:**
   * Preloader animado;
   * Coração batendo;
@@ -115,5 +115,29 @@
 
 <img src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio4/gif/desafio4.gif">
 
-* [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio4)
+* [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio4);
+
+<br>
+
+### Desafio 5 - Efeito pulsar:<a name="desafio5"></a>
+
+-------------------
+
+<img src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio5/gif/desafio5.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio5);
+
+<br>
+
+### Desafio 6 :<a name="desafio6"></a>
+
+------
+
+<img src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6/gif/desafio6.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+
+<br>
+
+---------------
 
