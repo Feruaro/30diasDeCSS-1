@@ -41,7 +41,7 @@
   * [Loader animado](#desafio2);
   * [Mudança de cor de texto quando entra em outra div](#desafio3);
 * **Dia 2:**
-  * Botão com efeito;
+  * [Botão com efeito](#desafio4);
   * Efeito pulsar;
   * Efeito lightning text;
 * **Dia 3:**
@@ -109,7 +109,11 @@
 
 <br>
 
+### Desafio 4 - Efeito no botão com hover:<a name="desafio4"></a>
+
 -------------
 
+<img src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio4/gif/desafio4.gif">
 
+* [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio4)
 
