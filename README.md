@@ -25,10 +25,8 @@
 
 ---------------
 
-- [ ] Criar **meu site portfólio** utilizando todas as dicas que aprenderei + conhecimentos meus;
-
-
 - [ ] Criar um **projeto** com os conhecimentos adquiridos;
+
 
 <br>
 
