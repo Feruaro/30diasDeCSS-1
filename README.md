@@ -37,45 +37,45 @@
 ---------
 
 * **Dia 1:**
-  * [Ícones de mídias sociais em camadas](#desafio1);
-  * [Loader animado](#desafio2);
-  * [Mudança de cor de texto quando entra em outra div](#desafio3);
+  * Desafio 1: [Ícones de mídias sociais em camadas](#desafio1);
+  * Desafio 2: [Loader animado](#desafio2);
+  * Desafio 3: [Mudança de cor de texto quando entra em outra div](#desafio3);
 * **Dia 2:**
-  * [Botão com efeito](#desafio4);
-  * [Efeito pulsar](#desafio5);
-  * [Efeito lightning text](#desafio6);
+  * Desafio 4: [Botão com efeito](#desafio4);
+  * Desafio 5: [Efeito pulsar](#desafio5);
+  * Desafio 6: [Efeito lightning text](#desafio6);
 * **Dia 3:**
-  * Preloader animado;
-  * Coração batendo;
-  * Pendulo de Newton;
+  * Desafio 7: [Preloader animado](#desafio7);
+  * Desafio 8: [Coração batendo](#desafio8);
+  * Desafio 9: [Pendulo de Newton](#desafio9);
 * **Dia 4:**
-  * Animação texto alternando
-  * Botão com efeito hover
-  * Efeito de preenchimento ao passar o mouse;
+  * Desafio 10: [Animação texto alternando](#desafio10)
+  * Desafio 11: [Botão com efeito hover](#desafio11)
+  * Desafio 12: [Efeito de preenchimento ao passar o mouse](#desafio12);
 * **Dia 5:**
-  * Loading com efeito;
-  * Fundo de texto animado;
-  * Texto flutuante;
+  * Desafio 13: [Loading com efeito](#desafio13);
+  * Desafio 14: [Fundo de texto animado](#desafio14);
+  * Desafio 15: [Texto flutuante](#desafio15);
 * **Dia 6:**
-  * Botão com efeito;
-  * Loader animado;
-  * Texto esfumaçado;
+  * Desafio 16: [Botão com efeito](#desafio16);
+  * Desafio 17: [Loader animado](#desafio17);
+  * Desafio 18: [Texto esfumaçado](#desafio18);
 * **Dia 7:**
-  * Efeitos de animação de fundo de partículas;
-  * Botão com efeito;
-  * Esferas quicando;
+  * Desafio 19: [Efeitos de animação de fundo de partículas](#desafio19);
+  * Desafio 20: [Botão com efeito](#desafio20);
+  * Desafio 21: [Esferas quicando](#desafio21);
 * **Dia 8:**
-  * Ícones com efeito;
-  * Botão com efeito hover;
-  * Preloader animado;
+  * Desafio 22: [Ícones com efeito](#desafio22);
+  * Desafio 23: [Botão com efeito hover](#desafio23);
+  * Desafio 24: [Preloader animado](#desafio24);
 * **Dia 9:**
-  * Checkbox animado;
-  * Loading com efeito;
-  * Efeito pulsar;
+  * Desafio 25: [Checkbox animado](#desafio25);
+  * Desafio 26: [Loading com efeito](#desafio26);
+  * Desafio 27: [Efeito pulsar](#desafio27);
 * **Dia 10:**
-  * Cor do background mudando;
-  * Menu responsivo com Media Queries;
-  * Fogos de artificio;
+  * Desafio 28: [Cor do background mudando](#desafio28);
+  * Desafio 29: [Menu responsivo com Media Queries](#desafio29);
+  * Desafio 30: [Fogos de artificio](#desafio30);
 
 <br>
 
@@ -129,7 +129,7 @@
 
 <br>
 
-### Desafio 6 :<a name="desafio6"></a>
+### Desafio 6 - Efeito lightning text:<a name="desafio6"></a>
 
 ------
 
@@ -139,5 +139,33 @@
 
 <br>
 
----------------
+### Desafio 7 - Preloader animado: <a name="desafio7"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-11.01.22/Desafio7/gif/desafio7.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+
+<br>
+
+### Desafio 8 - Coração batendo: <a name="desafio8"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-11.01.22/Desafio8/gif/desafio8.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+
+<br>
+
+### Desafio 9 - Pendulo de Newton: <a name="desafio9"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia2-11.01.22/Desafio9/gif/desafio9.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+
+<br>
 
