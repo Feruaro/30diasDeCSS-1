@@ -143,9 +143,9 @@
 
 ------
 
-<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio7/gif/desafio7.gif">
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio7/git/desafio7.gif">
 
-- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio7);
 
 <br>
 
@@ -155,7 +155,7 @@
 
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio8/gif/desafio8.gif">
 
-- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio8);
 
 <br>
 
@@ -165,7 +165,7 @@
 
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio9/gif/desafio9.gif">
 
-- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia2-10.01.22/Desafio6);
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio9);
 
-<br> 
+<br>  
 
