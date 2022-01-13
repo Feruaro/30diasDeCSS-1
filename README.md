@@ -49,7 +49,7 @@
 * **Dia 4:**
   * Desafio 10: [Animação texto alternando](#desafio10)
   * Desafio 11: [Botão com efeito hover](#desafio11)
-  * Desafio 12: [Efeito de preenchimento ao passar o mouse](#desafio12);
+  * Desafio 12: [Efeito de preenchimento ao passar o mouse](#desafio12)  |  [efeito com gradiente](#desafio12-1);
 * **Dia 5:**
   * Desafio 13: [Loading com efeito](#desafio13);
   * Desafio 14: [Fundo de texto animado](#desafio14);
@@ -187,7 +187,7 @@
 
 <br>
 
-### Desafio 12 - Efeito de preenchimento ao passar o mouse: <a name="desafio12"></a>
+### Desafio 12 - Efeito de preenchimento ao passar o mouse:<a name="desafio12"></a>
 
 ------
 
@@ -199,7 +199,7 @@
 
 <br>
 
-> Com gradiente:
+> Com gradiente:<a name="#desafio12-1"></a>
 
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12/com%20gradiente/gif/desafio12-1.gif">
 
@@ -208,4 +208,3 @@
 <br>
 
 ------
-
