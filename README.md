@@ -165,5 +165,34 @@
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia3-11.01.22/Desafio9);
 
-<br>  
+<br>
 
+### Desafio 10 - Animação texto alternando: <a name="desafio10"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio10/gif/desafio10.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio10);
+
+<br>
+
+### Desafio 11 - Botão com efeito hover: <a name="desafio11"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio11/gif/desafio11.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio11);
+
+<br>
+
+### Desafio 12 - Efeito de preenchimento ao passar o mouse: <a name="desafio12"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12/gif/desafio12.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12);
+
+<br>
