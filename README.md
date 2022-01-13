@@ -191,9 +191,7 @@
 
 ------
 
-* Um tom:
-
-  ​
+> Um tom:
 
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12/gif/desafio12.gif">
 
@@ -201,12 +199,13 @@
 
 <br>
 
-- Com gradiente:
-
-  ​
+> Com gradiente:
 
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12/com%20gradiente/gif/desafio12-1.gif">
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia4-12.01.22/Desafio12/com%20gradiente);
 
 <br>
+
+------
+
