@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 8em;
+    color: rgba(255, 99, 71, 0.5);
+    position: relative;
+}
+  
+h1::before {
+    content: "#30diasdeCSS";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-image: linear-gradient(to right, #bc4e9c, #f80759);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.6s;
+}
+
+h1:hover::before {
+    width: 100%;
+} 
