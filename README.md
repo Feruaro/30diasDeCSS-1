@@ -207,4 +207,12 @@
 
 <br>
 
+### Desafio 13 - Loading com efeito:<a name="desafio13"></a>
+
 ------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia5-13.01.22/Desafio13/gif/desafio13.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia5-13.01.22/Desafio13);
+
+<br>
