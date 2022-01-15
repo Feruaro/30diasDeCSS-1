@@ -217,7 +217,7 @@
 
 <br>
 
-### Desafio 14 - :<a name="desafio14"></a>
+### Desafio 14 - Fundo de texto animado:<a name="desafio14"></a>
 
 ------
 
@@ -227,7 +227,7 @@
 
 <br>
 
-### Desafio 15 - :<a name="desafio13"></a>
+### Desafio 15 - Texto flutuante:<a name="desafio13"></a>
 
 ------
 
