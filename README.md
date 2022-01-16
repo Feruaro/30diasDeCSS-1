@@ -74,6 +74,8 @@
   * Desafio 28: [Cor do background mudando](#desafio28);
   * Desafio 29: [Menu responsivo com Media Queries](#desafio29);
   * Desafio 30: [Fogos de artificio](#desafio30);
+* **Extras:**
+  * Desafio extra 1: [Logo da Netflix](#desafioextra1);
 
 <br>
 
@@ -234,5 +236,15 @@
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia5-13.01.22/Desafio15/gif/desafio15.gif">
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia5-13.01.22/Desafio15);
+
+<br>
+
+### Desafio extra 1 - Logo da Netflix:<a name="desafioextra1"></a>
+
+------
+
+<img width=900px height=400px src="">
+
+- [Meu código]();
 
 <br>
