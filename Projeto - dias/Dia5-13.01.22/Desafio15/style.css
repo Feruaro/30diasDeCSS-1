@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Dongle', sans-serif;
+    font-size: 10em;
+    text-transform: uppercase;
+    color: #365c3e;
+    text-align: center;
+    line-height: 90px;
+    letter-spacing: 15px;
+    text-shadow: 0 30px 4px rgba(0,0,0,.1);
+    animation: animate 3s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes animate {
+    from {
+        transform: rotate(10deg);
+    }
+    to {
+        transform: rotate(-10deg);
+    }
+}
