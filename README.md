@@ -76,6 +76,7 @@
   * Desafio 30: [Fogos de artificio](#desafio30);
 * **Extras:**
   * Desafio extra 1: [Logo da Netflix](#desafioextra1);
+  * Desafio extra 2: [Efeito flip](#desafioextra2);
 
 <br>
 
@@ -276,5 +277,16 @@
 <img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra1/img/desafioextra1.jpg">
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra1);
+
+<br>
+
+### Desafio extra 2 - Efeito flip:<a name="desafioextra2"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra2">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra2/gif/desafioextra2.gif);
+- [Referência](https://www.instagram.com/p/CY2BeZelLOu/?utm_medium=copy_link);
 
 <br>
