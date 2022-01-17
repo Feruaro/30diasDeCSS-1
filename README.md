@@ -297,7 +297,7 @@
 
 ------
 
-<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra3/gif/desafioextra3.gif">
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra3/img/desafioextra3.jpg">
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra3);
 - [Referência](https://www.instagram.com/p/CYZt2DPA_4r/?utm_medium=copy_link);
