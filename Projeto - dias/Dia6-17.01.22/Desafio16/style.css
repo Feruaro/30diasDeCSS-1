@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+a {
+    color: #222;
+    font-size: 50px;
+    font-weight: 600;
+    border: 3px solid #222;
+    padding: 40px 80px;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden;
+    background-color: rgb(200, 162, 200);
+    ;
+}
+
+a::before {
+    content: '✔️ Desafio 16';
+    color: #222;
+    background-color: #42b396;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: all .5s;
+}
+
+a:hover::before {
+    transform: translateY(0);
+}
