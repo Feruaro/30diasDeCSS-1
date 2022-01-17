@@ -1,0 +1,27 @@
+
+
+body {
+    background: url("imgback.jpg"); 
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    height: 300px;
+    width: 600px;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(51, 51, 51, 0.15);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+}
+
+h1 {
+    font-size: 50px;
+}
