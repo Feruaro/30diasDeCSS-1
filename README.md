@@ -77,6 +77,7 @@
 * **Extras:**
   * Desafio extra 1: [Logo da Netflix](#desafioextra1);
   * Desafio extra 2: [Efeito flip](#desafioextra2);
+  * Desafio extra 3: [Efeito de vidro](#desafioextra3);
 
 <br>
 
@@ -289,5 +290,16 @@
 
 - [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra2);
 - [Referência](https://www.instagram.com/p/CY2BeZelLOu/?utm_medium=copy_link);
+
+<br>
+
+### Desafio extra 3 - Efeito de vidro:<a name="desafioextra3"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra3/gif/desafioextra3.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra3);
+- [Referência](https://www.instagram.com/p/CYZt2DPA_4r/?utm_medium=copy_link);
 
 <br>
