@@ -229,7 +229,7 @@
 
 <br>
 
-### Desafio 15 - Texto flutuante:<a name="desafio13"></a>
+### Desafio 15 - Texto flutuante:<a name="desafio15"></a>
 
 ------
 
@@ -243,8 +243,8 @@
 
 ------
 
-<img width=900px height=400px src="">
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Extras/Desafioextra1/img/desafioextra1.jpg">
 
-- [Meu código]();
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Extras/Desafioextra1);
 
 <br>
