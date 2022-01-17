@@ -239,6 +239,36 @@
 
 <br>
 
+### Desafio 16 - Botão com efeito:<a name="desafio16"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio16/gif/desafio16.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio16);
+
+<br>
+
+### Desafio 17 - Loader animado:<a name="desafio17"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio17/gif/desafio17.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio17);
+
+<br>
+
+### Desafio 18 - Texto esfumaçado:<a name="desafio18"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio18/gif/desafio18.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia6-17.01.22/Desafio18);
+
+<br>
+
 ### Desafio extra 1 - Logo da Netflix:<a name="desafioextra1"></a>
 
 ------
