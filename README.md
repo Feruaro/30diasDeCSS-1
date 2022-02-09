@@ -58,22 +58,18 @@
   * Desafio 16: [Botão com efeito](#desafio16);
   * Desafio 17: [Loader animado](#desafio17);
   * Desafio 18: [Texto esfumaçado](#desafio18);
-* **Dia 7:**
-  * Desafio 19: [Efeitos de animação de fundo de partículas](#desafio19);
-  * Desafio 20: [Botão com efeito](#desafio20);
-  * Desafio 21: [Esferas quicando](#desafio21);
-* **Dia 8:**
-  * Desafio 22: [Ícones com efeito](#desafio22);
-  * Desafio 23: [Botão com efeito hover](#desafio23);
-  * Desafio 24: [Preloader animado](#desafio24);
-* **Dia 9:**
-  * Desafio 25: [Checkbox animado](#desafio25);
-  * Desafio 26: [Loading com efeito](#desafio26);
-  * Desafio 27: [Efeito pulsar](#desafio27);
-* **Dia 10:**
-  * Desafio 28: [Cor do background mudando](#desafio28);
-  * Desafio 29: [Menu responsivo com Media Queries](#desafio29);
-  * Desafio 30: [Fogos de artificio](#desafio30);
+* **Dia 7:** Desafio 19: [Efeitos de animação de fundo de partículas](#desafio19);
+* **Dia 8:** Desafio 20: [Botão com efeito](#desafio20);
+* **Dia 9:** Desafio 21: [Esferas quicando](#desafio21); 
+* **Dia 10:** Desafio 22: [Ícones com efeito](#desafio22);
+* **Dia 11:** Desafio 23: [Botão com efeito hover](#desafio23);
+* **Dia 12:** Desafio 24: [Preloader animado](#desafio24);
+* **Dia 13:** Desafio 25: [Checkbox animado](#desafio25);
+* **Dia 14:** Desafio 26: [Loading com efeito](#desafio26);
+* **Dia 15:** Desafio 27: [Efeito pulsar](#desafio27);
+* **Dia 16:** Desafio 28: [Cor do background mudando](#desafio28);
+* **Dia 17:** Desafio 29: [Menu responsivo com Media Queries](#desafio29);
+* **Dia 18:** Desafio 30: [Fogos de artificio](#desafio30);
 * **Extras:**
   * Desafio extra 1: [Logo da Netflix](#desafioextra1);
   * Desafio extra 2: [Efeito flip](#desafioextra2);
