@@ -271,6 +271,16 @@
 
 <br>
 
+### Desafio 19 - Efeitos de animação de fundo de partículas:<a name="desafio19"></a>
+
+------
+
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia7-08.02.22/Desafio19/gif/desafio19.gif">
+
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia7-08.02.22/Desafio19);
+
+<br>
+
 ### Desafio extra 1 - Logo da Netflix:<a name="desafioextra1"></a>
 
 ------
