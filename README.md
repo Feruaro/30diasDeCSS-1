@@ -271,9 +271,9 @@
 
 ------
 
-<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia7-08.02.22/Desafio19/gif/desafio19.gif">
+<img width=900px height=400px src="https://github.com/Feruaro/30diasDeCSS-1/blob/minha-feature/Projeto%20-%20dias/Dia7-08.02.22/gif/desafio19.gif">
 
-- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia7-08.02.22/Desafio19);
+- [Meu código](https://github.com/Feruaro/30diasDeCSS-1/tree/minha-feature/Projeto%20-%20dias/Dia7-08.02.22);
 
 <br>
 
